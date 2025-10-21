@@ -117,7 +117,8 @@
       <br /><strong>C++</strong>
     </td>
       <td align="center" width="140" height="112.43">
-      <img src="https://imgs.search.brave.com/78ONUyBEG7kqq9wFGnxfXMKWpAQ02B-UuYPvVCrxyBY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGJkODdkMzRm/OWUzNjRkYzQwYTc3/M2RhZTU0NmI0OThh/NmI3ZDBhYTAzODQ3/OGRiZjVmMjNhYzA3/MWU0OTNhMC9jaGFr/cmEtdWkuY29tLw" width="65" height="65" alt="Chakra UI" />
+      <img src="https://img.icons8.com/?format=png&id=r9QJ0VFFrn7T&size=512" alt="Chakra UI" />
+        <br /><strong>Chakra UI</strong>
         <td align="center" width="140" height="112.43">
       <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="65" height="65" alt="Zustand" />
       <br /><strong>Zustand</strong>
