@@ -37,7 +37,7 @@
 
 ---
 
-### 🧰 Languages & Tools: Known & Currently Learning
+### 🧰 Tech Stacl
 
   <div align="center">
 <table>
