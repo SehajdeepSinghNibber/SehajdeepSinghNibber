@@ -37,7 +37,7 @@
 
 ---
 
-### 🧰 Tech Stacl
+### 🧰 Tech Stack
 
   <div align="center">
 <table>
