@@ -119,7 +119,7 @@
       <td align="center" width="140" height="112.43">
       <img src="https://imgs.search.brave.com/78ONUyBEG7kqq9wFGnxfXMKWpAQ02B-UuYPvVCrxyBY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGJkODdkMzRm/OWUzNjRkYzQwYTc3/M2RhZTU0NmI0OThh/NmI3ZDBhYTAzODQ3/OGRiZjVmMjNhYzA3/MWU0OTNhMC9jaGFr/cmEtdWkuY29tLw" width="65" height="65" alt="Chakra UI" />
         <td align="center" width="140" height="112.43">
-      <img src="https://imgs.search.brave.com/6YJUhsYn2NlK2LPMgcs1uNYV1fQ7HjNyBHyT15uvD48/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDVmOTNkYzI0/ZDRlYmIyMzM2MTRi/MGYyZWQyN2FmZTQx/Y2Q5ZDA5ZWM5ODgx/MGUwOTY5Njk5Y2Y2/MjliNTA3YS96dXN0/YW5kLWRlbW8ucG1u/ZC5ycy8" width="65" height="65" alt="Zustand" />
+      <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="65" height="65" alt="Zustand" />
       <br /><strong>Zustand</strong>
     </td>
   </tr>
