@@ -106,11 +106,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65" alt="Python" />
       <br /><strong>Python</strong>
     </td>
-    <!-- Chakra UI added here -->
-    <td align="center" width="140" height="112.43">
-      <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg" width="65" height="65" alt="Chakra UI" />
-      <br /><strong>Chakra UI</strong>
-    </td>
   </tr>
   <tr>
     <td align="center" width="140" height="112.43">
@@ -120,6 +115,10 @@
     <td align="center" width="140" height="112.43">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
       <br /><strong>C++</strong>
+    </td>
+      <td align="center" width="140" height="112.43">
+      <img src="https://imgs.search.brave.com/78ONUyBEG7kqq9wFGnxfXMKWpAQ02B-UuYPvVCrxyBY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGJkODdkMzRm/OWUzNjRkYzQwYTc3/M2RhZTU0NmI0OThh/NmI3ZDBhYTAzODQ3/OGRiZjVmMjNhYzA3/MWU0OTNhMC9jaGFr/cmEtdWkuY29tLw" width="65" height="65" alt="Chakra UI" />
+      <br /><strong>Chakra UI</strong>
     </td>
   </tr>
 </table>
