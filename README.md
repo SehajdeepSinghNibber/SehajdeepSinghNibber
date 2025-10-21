@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on **MERN Stack Projects** and exploring **AI & Data Science**
 - 🌱 Learning: **MongoDB, Express.js, React, Node.js, Python**, and **Machine Learning**
 - 💬 Ask me about **Web Development, Python, SQL, Pandas**, and **learning resources**
-- 📫 Email: **sehajdeepsinghsdsn@gmail.com**
+- 📫 Email: **ssingh28_be24@thapar.edu**
 
 ---
 
