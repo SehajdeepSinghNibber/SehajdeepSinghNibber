@@ -123,6 +123,10 @@
       <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="65" height="65" alt="Zustand" />
       <br /><strong>Zustand</strong>
     </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="65" height="65" alt="Shadcn" />
+      <br /><strong>Shadcn</strong>
+    </td>
   </tr>
 </table>
 </div>
