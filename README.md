@@ -116,7 +116,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
       <br /><strong>C++</strong>
     </td>
-      <td align="center" width="140" height="112.43">
+      <td align="center" width="110" height="112.43">
       <img src="https://img.icons8.com/?format=png&id=r9QJ0VFFrn7T&size=512" alt="Chakra UI" />
         <br /><strong>Chakra UI</strong>
         <td align="center" width="140" height="112.43">
