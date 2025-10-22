@@ -158,13 +158,17 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="65" height="65" alt="Socket.io" />
       <br /><strong>Socket.io</strong>
     </td>
-    <td></td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://bun.sh/logo.svg" width="65" height="65" alt="Bun" />
+      <br /><strong>Bun</strong>
+    </td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
 </table>
 </div>
+
 
 ---
 
