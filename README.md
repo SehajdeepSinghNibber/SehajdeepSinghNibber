@@ -39,7 +39,7 @@
 
 ### 🧰 Tech Stack
 
-  <div align="center">
+<div align="center">
 <table>
   <tr>
     <td align="center" width="140" height="112.43">
@@ -62,12 +62,13 @@
       <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="65" height="65" alt="Bootstrap" />
       <br /><strong>Bootstrap</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="140" height="112.43">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65" height="65" alt="Tailwind CSS" />
       <br /><strong>Tailwind CSS</strong>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="140" height="112.43">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="65" height="65" alt="React" />
       <br /><strong>React</strong>
@@ -84,8 +85,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="65" height="65" alt="Express" />
       <br /><strong>Express</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="140" height="112.43">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" />
       <br /><strong>MongoDB</strong>
@@ -94,6 +93,9 @@
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="65" height="65" alt="Postman" />
       <br /><strong>Postman</strong>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="140" height="112.43">
       <img src="https://cdn.worldvectorlogo.com/logos/nodemon.svg" width="65" height="65" alt="Nodemon" />
       <br /><strong>Nodemon</strong>
@@ -106,8 +108,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65" alt="Python" />
       <br /><strong>Python</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="140" height="112.43">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="65" height="65" alt="C" />
       <br /><strong>C</strong>
@@ -116,10 +116,14 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
       <br /><strong>C++</strong>
     </td>
-      <td align="center" width="140" height="112.43">
-      <img src="https://img.icons8.com/?format=png&id=r9QJ0VFFrn7T&size=512" width="65" height="65" alt="Zustand" />
-        <br /><strong>Chakra UI</strong>
-        <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43">
+      <img src="https://img.icons8.com/?format=png&id=r9QJ0VFFrn7T&size=512" width="65" height="65" alt="Chakra UI" />
+      <br /><strong>Chakra UI</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140" height="112.43">
       <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="65" height="65" alt="Zustand" />
       <br /><strong>Zustand</strong>
     </td>
@@ -127,38 +131,40 @@
       <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="65" height="65" alt="Shadcn" />
       <br /><strong>Shadcn</strong>
     </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
+      <br /><strong>MySQL</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="SQLite" />
+      <br /><strong>SQLite</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65" height="65" alt="VSCode" />
+      <br /><strong>VSCode</strong>
+    </td>
   </tr>
-<tr>
-  <td align="center" width="140" height="112.43">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
-    <br /><strong>PostgreSQL</strong>
-  </td>
-  <td align="center" width="140" height="112.43">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
-    <br /><strong>MySQL</strong>
-  </td>
-  <td align="center" width="140" height="112.43">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="SQLite" />
-    <br /><strong>SQLite</strong>
-  </td>
-  <td align="center" width="140" height="112.43">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65" height="65" alt="VSCode" />
-    <br /><strong>VSCode</strong>
-  </td>
-  <td align="center" width="140" height="112.43">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="65" height="65" alt="PyCharm" />
-    <br /><strong>PyCharm</strong>
-  </td>
-</tr>
+
   <tr>
-  <td align="center" width="140" height="112.43">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="65" height="65" alt="Socket.io" />
-    <br /><strong>Socket.io</strong>
-  </td>
-</tr>
+    <td align="center" width="140" height="112.43">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="65" height="65" alt="PyCharm" />
+      <br /><strong>PyCharm</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="65" height="65" alt="Socket.io" />
+      <br /><strong>Socket.io</strong>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 </div>
-
 
 ---
 
