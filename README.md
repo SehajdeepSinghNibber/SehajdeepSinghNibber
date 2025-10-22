@@ -128,34 +128,7 @@
       <br /><strong>Shadcn</strong>
     </td>
   </tr>
-  <tr>
-  <td align="center" width="140" height="112.43">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="65" height="65" alt="Socket.io" />
-    <br /><strong>Socket.io</strong>
-  </td>
-  <td align="center" width="140" height="112.43">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="65" height="65" alt="Golang" />
-    <br /><strong>Golang</strong>
-  </td>
-  <td align="center" width="140" height="112.43">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="65" height="65" alt="Django" />
-    <br /><strong>Django</strong>
-  </td>
-  <td align="center" width="140" height="112.43">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="65" height="65" alt="Flask" />
-    <br /><strong>Flask</strong>
-  </td>
-  <td align="center" width="140" height="112.43">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="65" height="65" alt="NumPy" />
-    <br /><strong>NumPy</strong>
-  </td>
-</tr>
-
 <tr>
-  <td align="center" width="140" height="112.43">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="65" height="65" alt="React Native" />
-    <br /><strong>React Native</strong>
-  </td>
   <td align="center" width="140" height="112.43">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
     <br /><strong>PostgreSQL</strong>
@@ -177,7 +150,12 @@
     <br /><strong>PyCharm</strong>
   </td>
 </tr>
-
+  <tr>
+  <td align="center" width="140" height="112.43">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="65" height="65" alt="Socket.io" />
+    <br /><strong>Socket.io</strong>
+  </td>
+</tr>
 </table>
 </div>
 
