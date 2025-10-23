@@ -171,6 +171,12 @@
         <br /><strong>Postman</strong>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="140" height="112.43">
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="65" height="65" alt="Jupyter Notebook" />
+      <br /><strong>Jupyter Notebook</strong>
+    </td>
+    </tr>
   </table>
 </div>
 
