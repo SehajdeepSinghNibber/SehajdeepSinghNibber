@@ -163,20 +163,14 @@
         <br /><strong>CLion</strong>
       </td>
       <td align="center" width="140" height="112.43">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" width="65" height="65" alt="Jupyter Notebook" />
-        <br /><strong>Jupyter Notebook</strong>
-      </td>
-      <td align="center" width="140" height="112.43">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="65" height="65" alt="Postman" />
         <br /><strong>Postman</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="140" height="112.43">
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="65" height="65" alt="Jupyter Notebook" />
       <br /><strong>Jupyter Notebook</strong>
     </td>
-    </tr>
+    </tr
   </table>
 </div>
 
