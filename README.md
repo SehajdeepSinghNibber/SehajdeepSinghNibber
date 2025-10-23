@@ -155,7 +155,7 @@
         <br /><strong>PyCharm</strong>
       </td>
       <td align="center" width="140" height="112.43">
-        <img src="https://cdn.worldvectorlogo.com/logos/intellij.svg" width="65" height="65" alt="IntelliJ IDEA" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="65" height="65" alt="IntelliJ" />
         <br /><strong>IntelliJ</strong>
       </td>
       <td align="center" width="140" height="112.43">
