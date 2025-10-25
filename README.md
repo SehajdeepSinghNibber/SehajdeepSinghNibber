@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **MERN Stack Projects** and exploring **AI & Data Science**
+- 🔭 I'm currently working on **MERN Stack Projects** and exploring **AI & Data Science**
 - 🌱 Learning: **MongoDB, Express.js, React, Node.js, Python**, and **Machine Learning**
 - 💬 Ask me about **Web Development, Python, SQL, Pandas**, and **learning resources**
 - 📫 Email: **ssingh28_be24@thapar.edu**
@@ -174,21 +174,20 @@
   </table>
 </div>
 
-
 ---
 
-### 📈 Real-Time GitHub Metrics
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sehajdeepsinghnibber&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sehajdeepsinghnibber&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sehajdeepsinghnibber&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sehajdeepsinghnibber&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehajdeepsinghnibber&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehajdeepsinghnibber&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&exclude_repo=sehajdeepsinghnibber" alt="Top Languages" />
 </p>
 
 ---
@@ -196,7 +195,7 @@
 ### 💡 Quote of the Moment
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
