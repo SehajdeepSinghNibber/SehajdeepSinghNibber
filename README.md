@@ -156,21 +156,21 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="65" height="65" alt="Vue.js" />
         <br /><strong>Vue.js</strong>
       </td>
-       <td align="center" width="140" height="112.43">
+      <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="65" height="65" alt="NumPy" />
+        <br /><strong>NumPy</strong>
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas" />
+        <br /><strong>Pandas</strong>
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="65" height="65" alt="Golang" />
+        <br /><strong>Golang</strong>
+      </td>
+      <td align="center" width="140" height="112.43">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65" height="65" alt="VSCode" />
         <br /><strong>VSCode</strong>
-      </td>
-      <td align="center" width="140" height="112.43">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="65" height="65" alt="PyCharm" />
-        <br /><strong>PyCharm</strong>
-      </td>
-      <td align="center" width="140" height="112.43">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="65" height="65" alt="IntelliJ" />
-        <br /><strong>IntelliJ</strong>
-      </td>
-      <td align="center" width="140" height="112.43">
-        <img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" width="65" height="65" alt="CLion" />
-        <br /><strong>CLion</strong>
       </td>
     </tr>
     <tr>
@@ -181,6 +181,18 @@
       <td align="center" width="140" height="112.43">
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="65" height="65" alt="Jupyter Notebook" />
         <br /><strong>Jupyter Notebook</strong>
+      </td>
+         <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="65" height="65" alt="PyCharm" />
+        <br /><strong>PyCharm</strong>
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="65" height="65" alt="IntelliJ" />
+        <br /><strong>IntelliJ</strong>
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" width="65" height="65" alt="CLion" />
+        <br /><strong>CLion</strong>
       </td>
     </tr>
   </table>
