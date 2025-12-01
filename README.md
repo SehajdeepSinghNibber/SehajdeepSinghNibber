@@ -156,9 +156,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="65" height="65" alt="Vue.js" />
         <br /><strong>Vue.js</strong>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="140" height="112.43">
+       <td align="center" width="140" height="112.43">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65" height="65" alt="VSCode" />
         <br /><strong>VSCode</strong>
       </td>
@@ -174,6 +172,8 @@
         <img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" width="65" height="65" alt="CLion" />
         <br /><strong>CLion</strong>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="140" height="112.43">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="65" height="65" alt="Postman" />
         <br /><strong>Postman</strong>
