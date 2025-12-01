@@ -149,6 +149,16 @@
     </tr>
     <tr>
       <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="65" height="65" alt="React Native" />
+        <br /><strong>React Native</strong>
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="65" height="65" alt="Vue.js" />
+        <br /><strong>Vue.js</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140" height="112.43">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65" height="65" alt="VSCode" />
         <br /><strong>VSCode</strong>
       </td>
