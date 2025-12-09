@@ -202,12 +202,6 @@
       <img src="https://authjs.dev/img/logo-sm.png" width="65" height="65" alt="Auth.js" />
       <br /><strong>Auth.js</strong>
     </td>
-    <td align="center" width="140" height="112.43">
-      <img src="[https://raw.githubusercontent.com/aneagoie/ztm-landing-page/master/assets/ejs-logo.png](https://imgs.search.brave.com/11BB1YX8GfE83p_HNfzAU-iFaROfAdx0Xbp2nVIVVYI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2YzNDg3OWM2/YzA3Mzk0YWY3NDdi/YzJlNjM3OGM2YjZj/ZGJlMDdjNjNiYjYz/YzQ4N2MxMjFkNmJi/MDY4MWNlMy9lanMu/Y28v)" width="65" height="65" alt="EJS" />
-      <br /><strong>EJS</strong>
-    </td>
-      <br /><strong>Git Bash</strong>
-    </td>
     </tr>
   </table>
 </div>
