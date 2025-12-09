@@ -207,7 +207,7 @@
       <br /><strong>EJS</strong>
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="https://raw.githubusercontent.com/arangodb-helper/test-images/master/git-bash-logo.svg" width="65" height="65" alt="Git Bash" />
+      <img src="[https://raw.githubusercontent.com/arangodb-helper/test-images/master/git-bash-logo.svg](https://cdn.worldvectorlogo.com/logos/git-bash.svg?utm_source=chatgpt.com)" width="65" height="65" alt="Git Bash" />
       <br /><strong>Git Bash</strong>
     </td>
     </tr>
