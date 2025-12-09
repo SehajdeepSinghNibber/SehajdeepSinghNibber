@@ -195,7 +195,7 @@
         <br /><strong>CLion</strong>
       </td>
       <td align="center" width="140" height="112.43">
-        <img src="https://cdn.worldvectorl.com/logos/npm.svg" width="65" height="65" alt="npm" />
+        <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="65" height="65" alt="npm" />
         <br /><strong>npm</strong>
       </td>
     </tr>
