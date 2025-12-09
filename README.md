@@ -203,11 +203,11 @@
       <br /><strong>Auth.js</strong>
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="https://cdn.worldvectorlogo.com/logos/ejs-1.svg" width="65" height="65" alt="EJS" />
+      <img src="https://raw.githubusercontent.com/aneagoie/ztm-landing-page/master/assets/ejs-logo.png" width="65" height="65" alt="EJS" />
       <br /><strong>EJS</strong>
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Git-bash-logo.svg" width="65" height="65" alt="Git Bash" />
+      <img src="https://raw.githubusercontent.com/arangodb-helper/test-images/master/git-bash-logo.svg" width="65" height="65" alt="Git Bash" />
       <br /><strong>Git Bash</strong>
     </td>
     </tr>
