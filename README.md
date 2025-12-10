@@ -218,6 +218,10 @@
       <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="65" height="65" alt="Supabase" />
       <br /><strong>Supabase</strong>
     </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://cdn.worldvectorlogo.com/logos/prismjs.svg" width="65" height="65" alt="Prism.js" />
+      <br /><strong>Prism.js</strong>
+    </td>
     </tr>
   </table>
 </div>
