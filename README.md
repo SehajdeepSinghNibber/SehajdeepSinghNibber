@@ -219,8 +219,8 @@
       <br /><strong>Supabase</strong>
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="https://cdn.worldvectorlogo.com/logos/prismjs.svg" width="65" height="65" alt="Prism.js" />
-      <br /><strong>Prism.js</strong>
+      <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="65" height="65" alt="Prisma" />
+      <br /><strong>Prisma</strong>
     </td>
     </tr>
   </table>
