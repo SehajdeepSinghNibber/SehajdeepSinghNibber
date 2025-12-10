@@ -207,7 +207,7 @@
       <br /><strong>Firebase</strong>
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="https://zod.dev/logo.svg" width="65" height="65" alt="Zod" />
+      <img src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" width="65" height="65" alt="Zod" />
       <br /><strong>Zod</strong>
     </td>
     <td align="center" width="140" height="112.43">
