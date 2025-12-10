@@ -202,6 +202,22 @@
       <img src="https://authjs.dev/img/logo-sm.png" width="65" height="65" alt="Auth.js" />
       <br /><strong>Auth.js</strong>
     </td>
+      <td align="center" width="140" height="112.43">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="65" height="65" alt="Firebase" />
+      <br /><strong>Firebase</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://zod.dev/logo.svg" width="65" height="65" alt="Zod" />
+      <br /><strong>Zod</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="65" height="65" alt="Next.js" />
+      <br /><strong>Next.js</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="65" height="65" alt="Supabase" />
+      <br /><strong>Supabase</strong>
+    </td>
     </tr>
   </table>
 </div>
