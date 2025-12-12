@@ -236,6 +236,21 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="65" height="65" alt="Svelte" />
       <br /><strong>Svelte</strong>
     </td>
+      <td align="center" width="140" height="112.43">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="65" height="65" alt="Django" />
+  <br /><strong>Django</strong>
+</td>
+
+<td align="center" width="140" height="112.43">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="65" height="65" alt="Flask" />
+  <br /><strong>Flask</strong>
+</td>
+
+<td align="center" width="140" height="112.43">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="Figma" />
+  <br /><strong>Figma</strong>
+</td>
+
   </tr>
   </table>
 </div>
