@@ -210,8 +210,8 @@
       <img src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" width="65" height="65" alt="Zod" />
       <br /><strong>Zod</strong>
     </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="65" height="65" alt="Next.js" />
+     <td align="center" width="140" height="112.43">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js" />
       <br /><strong>Next.js</strong>
     </td>
     <td align="center" width="140" height="112.43">
@@ -235,10 +235,6 @@
     <td align="center" width="140" height="112.43">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="65" height="65" alt="Svelte" />
       <br /><strong>Svelte</strong>
-    </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js" />
-      <br /><strong>Next.js</strong>
     </td>
   </tr>
   </table>
