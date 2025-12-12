@@ -223,6 +223,28 @@
       <br /><strong>Prisma</strong>
     </td>
     </tr>
+    <tr>
+    <td align="center" width="140" height="112.43">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/preact/preact-original.svg" width="65" height="65" alt="Preact" />
+      <br /><strong>Preact</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="65" height="65" alt="JSON" />
+      <br /><strong>JSON</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tkinter/tkinter-original.svg" width="65" height="65" alt="Tkinter" />
+      <br /><strong>Tkinter</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="65" height="65" alt="Svelte" />
+      <br /><strong>Svelte</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js" />
+      <br /><strong>Next.js</strong>
+    </td>
+  </tr>
   </table>
 </div>
 
