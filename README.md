@@ -20,8 +20,8 @@
 
 ### 🧠 About Me
 
-- 🔭 I'm currently working on **MERN Stack Projects** and exploring **AI & Data Science**
-- 🌱 Learning: **MongoDB, Express.js, React, Node.js, Python**, and **Machine Learning**
+- 🔭 I'm currently working on **Full-Stack Projects** and exploring **AI & Data Science**
+- 🌱 Learning: **MongoDB, PostgreSQL, Express.js, React, Node.js, Supabase, Firebase, DevOps, Python**, and **Machine Learning**
 - 💬 Ask me about **Web Development, Python, SQL, Pandas**, and **learning resources**
 - 📫 Email: **ssingh28_be24@thapar.edu**
 
