@@ -6,20 +6,6 @@
 
 <h3 align="center">Student at Thapar Institute of Technology | Tech Explorer 🚀</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/sehajdeep-singh-75b50b309" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" height="34" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sehajdeep_singh_2005/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" height="34" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ssingh28_be24@thapar.edu">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="34" alt="Gmail"/>
-  </a>
-</p>
-
 ---
 
 ### 🧠 About Me
@@ -35,11 +21,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sehajdeep-singh-75b50b309" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="34" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/sehajdeep_singh_2005/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="36" alt="Instagram"/>
+    <img src="https://img.icons8.com/color/48/instagram-new.png" height="34" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ssingh28_be24@thapar.edu">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="34" alt="Gmail"/>
   </a>
 </p>
 
