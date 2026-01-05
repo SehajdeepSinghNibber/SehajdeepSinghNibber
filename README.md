@@ -7,12 +7,12 @@
 <h3 align="center">Student at Thapar Institute of Technology | Tech Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sehajdeepsinghnibber&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=sehajdeepsinghnibber&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <a href="https://linkedin.com/in/sehajdeep-singh-75b50b309" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="34" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sehajdeep_singh_2005/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="34" alt="Instagram"/>
   </a>
 </p>
 
