@@ -264,7 +264,7 @@
   
   <tr>
     <td align="center" width="140" height="112.43">
-  <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/logos/daisyui.svg" width="65" height="65" alt="DaisyUI" />
+  <img src="https://images.seeklogo.com/logo-png/61/1/daisyui-logo-png_seeklogo-616852.png" width="65" height="65" alt="DaisyUI" />
   <br /><strong>DaisyUI</strong>
 </td>
   </tr>
