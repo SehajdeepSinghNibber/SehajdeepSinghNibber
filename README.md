@@ -261,6 +261,13 @@
 </td>
 
   </tr>
+  
+  <tr>
+    <td align="center" width="140" height="112.43">
+  <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/logos/daisyui.svg" width="65" height="65" alt="DaisyUI" />
+  <br /><strong>DaisyUI</strong>
+</td>
+  </tr>
   </table>
 </div>
 
