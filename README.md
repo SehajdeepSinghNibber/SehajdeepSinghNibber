@@ -264,9 +264,13 @@
   
   <tr>
     <td align="center" width="140" height="112.43">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/daisyui-icon.png" width="65" height="65" alt="DaisyUI" />
-  <br /><strong>DaisyUI</strong>
-</td>
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/daisyui-icon.png" width="65" height="65" alt="DaisyUI" />
+      <br /><strong>DaisyUI</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://assets.clerk.dev/static/clerk-logo.svg" width="65" height="65" alt="Clerk" />
+      <br /><strong>Clerk</strong>
+    </td>
   </tr>
   </table>
 </div>
