@@ -271,6 +271,11 @@
       <img src="https://images.g2crowd.com/uploads/product/image/c58d5fd4ba449e621bdcd01ac1f00976/clerk-dev.png" width="65" height="65" alt="Clerk" />
       <br /><strong>Clerk</strong>
     </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="65" height="65" alt="TanStack Query" />
+      <br /> <strong>TanStack Query</strong>
+    </td>
+
   </tr>
   </table>
 </div>
