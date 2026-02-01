@@ -273,9 +273,23 @@
     </td>
     <td align="center" width="140" height="112.43">
       <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="65" height="65" alt="TanStack Query" />
-      <br /> <strong>TanStack Query</strong>
+      <br /><strong>TanStack Query</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="65" height="65" alt="Matplotlib" />
+      <br /><strong>Matplotlib</strong>
     </td>
 
+  <td align="center" width="140" height="112.43">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="65" height="65" alt="Seaborn" />
+    <br /><strong>Seaborn</strong>
+  </td>
+    
+  <td align="center" width="140" height="112.43">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" height="65" alt="Scikit-learn" />
+    <br /><strong>Scikit-learn</strong>
+  </td>
+  
   </tr>
   </table>
 </div>
