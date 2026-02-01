@@ -73,7 +73,7 @@
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />
-        <br /><strong>Tailwind CSS</strong>
+        <br /><strong>Tailwind</br>CSS</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
