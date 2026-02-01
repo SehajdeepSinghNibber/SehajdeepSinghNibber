@@ -49,277 +49,236 @@
 ### 🧰 Tech Stack
 
 <div align="center">
-  <style>
-    .tech-table {
-      border-collapse: collapse;
-      margin: 0 auto;
-    }
-    .tech-cell {
-      width: 110px;
-      height: 90px;
-      padding: 6px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-    }
-    .tech-cell img {
-      width: 48px;
-      height: 48px;
-      display: block; /* extra safety for centering in non-flex contexts */
-      margin: 0 auto;
-    }
-    .tech-cell strong {
-      display: block;
-      margin-top: 6px;
-      font-size: 0.95rem;
-    }
-
-    /* Optional: make table collapse gap on very small screens */
-    @media (max-width: 520px) {
-      .tech-cell {
-        width: 90px;
-        height: 70px;
-        padding: 4px;
-      }
-      .tech-cell img { width: 40px; height: 40px; }
-      .tech-cell strong { font-size: 0.85rem; margin-top: 4px; }
-    }
-  </style>
-
-  <table class="tech-table">
+  <table style="border-collapse:collapse; margin:0 auto;">
     <tr>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
-        <strong>HTML5</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+        <br /><strong>HTML5</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
-        <strong>CSS3</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+        <br /><strong>CSS3</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
-        <strong>JavaScript</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <br /><strong>JavaScript</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" />
-        <strong>TypeScript</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <br /><strong>TypeScript</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" />
-        <strong>Bootstrap</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="48" height="48" alt="Bootstrap" />
+        <br /><strong>Bootstrap</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" />
-        <strong>Tailwind CSS</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />
+        <br /><strong>Tailwind CSS</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
-        <strong>React</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <br /><strong>React</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" />
-        <strong>Redux</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+        <br /><strong>Redux</strong>
       </td>
     </tr>
     <tr>
-      <td class="tech-cell">
-        <img src="https://avatars.githubusercontent.com/u/139895814?v=4" alt="Shadcn" />
-        <strong>Shadcn</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="48" height="48" alt="Shadcn" />
+        <br /><strong>Shadcn</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand" />
-        <strong>Zustand</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48" height="48" alt="Zustand" />
+        <br /><strong>Zustand</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://img.icons8.com/?format=png&id=r9QJ0VFFrn7T&size=512" alt="Chakra UI" />
-        <strong>Chakra UI</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://img.icons8.com/?format=png&id=r9QJ0VFFrn7T&size=512" width="48" height="48" alt="Chakra UI" />
+        <br /><strong>Chakra UI</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="WebStorm" />
-        <strong>WebStorm</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="48" height="48" alt="WebStorm" />
+        <br /><strong>WebStorm</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" />
-        <strong>Node.js</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        <br /><strong>Node.js</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" />
-        <strong>Express</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+        <br /><strong>Express</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
-        <strong>MongoDB</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <br /><strong>MongoDB</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
-        <strong>PostgreSQL</strong>
-      </td>
-    </tr>
-    <tr>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" />
-        <strong>MySQL</strong>
-      </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" />
-        <strong>SQLite</strong>
-      </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
-        <strong>Python</strong>
-      </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" />
-        <strong>C</strong>
-      </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" />
-        <strong>C++</strong>
-      </td>
-      <td class="tech-cell">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodemon.svg" alt="Nodemon" />
-        <strong>Nodemon</strong>
-      </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" />
-        <strong>Socket.io</strong>
-      </td>
-      <td class="tech-cell">
-        <img src="https://bun.sh/logo.svg" alt="Bun" />
-        <strong>Bun</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+        <br /><strong>PostgreSQL</strong>
       </td>
     </tr>
     <tr>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" />
-        <strong>React Native</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <br /><strong>MySQL</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" />
-        <strong>Vue.js</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+        <br /><strong>SQLite</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" />
-        <strong>NumPy</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br /><strong>Python</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" />
-        <strong>Pandas</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+        <br /><strong>C</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" />
-        <strong>Golang</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+        <br /><strong>C++</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" />
-        <strong>VSCode</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodemon.svg" width="48" height="48" alt="Nodemon" />
+        <br /><strong>Nodemon</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" />
-        <strong>Postman</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="48" height="48" alt="Socket.io" />
+        <br /><strong>Socket.io</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" />
-        <strong>Jupyter Notebook</strong>
-      </td>
-    </tr>
-    <tr>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" />
-        <strong>PyCharm</strong>
-      </td>
-      <td class="tech-cell">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" />
-        <strong>IntelliJ</strong>
-      </td>
-      <td class="tech-cell">
-        <img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" alt="CLion" />
-        <strong>CLion</strong>
-      </td>
-      <td class="tech-cell">
-        <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm" />
-        <strong>npm</strong>
-      </td>
-      <td class="tech-cell">
-        <img src="https://authjs.dev/img/logo-sm.png" alt="Auth.js" />
-        <strong>Auth.js</strong>
-      </td>
-      <td class="tech-cell">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" />
-        <strong>Firebase</strong>
-      </td>
-      <td class="tech-cell">
-        <img src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" alt="Zod" />
-        <strong>Zod</strong>
-      </td>
-      <td class="tech-cell">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" />
-        <strong>Next.js</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://bun.sh/logo.svg" width="48" height="48" alt="Bun" />
+        <br /><strong>Bun</strong>
       </td>
     </tr>
     <tr>
-      <td class="tech-cell">
-        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" />
-        <strong>Supabase</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
+        <br /><strong>React Native</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="Prisma" />
-        <strong>Prisma</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+        <br /><strong>Vue.js</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://preactjs.com/branding/symbol.png" alt="Preact" />
-        <strong>Preact</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+        <br /><strong>NumPy</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" />
-        <strong>JSON</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+        <br /><strong>Pandas</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" />
-        <strong>Svelte</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
+        <br /><strong>Golang</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" />
-        <strong>Django</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" />
+        <br /><strong>VSCode</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" />
-        <strong>Flask</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+        <br /><strong>Postman</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
-        <strong>Figma</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="48" height="48" alt="Jupyter Notebook" />
+        <br /><strong>Jupyter Notebook</strong>
       </td>
     </tr>
     <tr>
-      <td class="tech-cell">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/daisyui-icon.png" alt="DaisyUI" />
-        <strong>DaisyUI</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm" />
+        <br /><strong>PyCharm</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://images.g2crowd.com/uploads/product/image/c58d5fd4ba449e621bdcd01ac1f00976/clerk-dev.png" alt="Clerk" />
-        <strong>Clerk</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="48" height="48" alt="IntelliJ" />
+        <br /><strong>IntelliJ</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="TanStack Query" />
-        <strong>TanStack Query</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" width="48" height="48" alt="CLion" />
+        <br /><strong>CLion</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" />
-        <strong>Matplotlib</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="48" height="48" alt="npm" />
+        <br /><strong>npm</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" />
-        <strong>Seaborn</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://authjs.dev/img/logo-sm.png" width="48" height="48" alt="Auth.js" />
+        <br /><strong>Auth.js</strong>
       </td>
-      <td class="tech-cell">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" />
-        <strong>Scikit-learn</strong>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+        <br /><strong>Firebase</strong>
       </td>
-      <td class="tech-cell">&nbsp;</td>
-      <td class="tech-cell">&nbsp;</td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" width="48" height="48" alt="Zod" />
+        <br /><strong>Zod</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+        <br /><strong>Next.js</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="48" height="48" alt="Supabase" />
+        <br /><strong>Supabase</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="48" height="48" alt="Prisma" />
+        <br /><strong>Prisma</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://preactjs.com/branding/symbol.png" width="48" height="48" alt="Preact" />
+        <br /><strong>Preact</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="48" height="48" alt="JSON" />
+        <br /><strong>JSON</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="48" height="48" alt="Svelte" />
+        <br /><strong>Svelte</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+        <br /><strong>Django</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+        <br /><strong>Flask</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+        <br /><strong>Figma</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/daisyui-icon.png" width="48" height="48" alt="DaisyUI" />
+        <br /><strong>DaisyUI</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://images.g2crowd.com/uploads/product/image/c58d5fd4ba449e621bdcd01ac1f00976/clerk-dev.png" width="48" height="48" alt="Clerk" />
+        <br /><strong>Clerk</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="48" height="48" alt="TanStack Query" />
+        <br /><strong>TanStack Query</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" alt="Matplotlib" />
+        <br /><strong>Matplotlib</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
+        <br /><strong>Seaborn</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+        <br /><strong>Scikit-learn</strong>
+      </td>
     </tr>
   </table>
 </div>
