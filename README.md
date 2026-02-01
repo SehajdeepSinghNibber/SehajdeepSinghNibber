@@ -182,8 +182,8 @@
         <br /><strong>Postman</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="48" height="48" alt="Jupyter</br>Notebook" />
-        <br /><strong>Jupyter Notebook</strong>
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="48" height="48" alt="Jupyter Notebook" />
+        <br /><strong>Jupyter</br>Notebook</strong>
       </td>
     </tr>
     <tr>
