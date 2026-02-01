@@ -265,7 +265,7 @@
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="48" height="48" alt="TanStack Query" />
-        <br /><strong>TanStack Query</strong>
+        <br /><strong>TanStack</br>Query</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" alt="Matplotlib" />
