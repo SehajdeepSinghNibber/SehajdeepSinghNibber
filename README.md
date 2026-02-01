@@ -155,7 +155,7 @@
     <tr>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
-        <br /><strong>React Native</strong>
+        <br /><strong>React</br>Native</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
