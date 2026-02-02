@@ -32,15 +32,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sehajdeep-singh-75b50b309" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" height="34" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/54/linkedin.png" height="34" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/sehajdeep_singh_2005/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" height="34" alt="Instagram"/>
+    <img src="https://img.icons8.com/color/54/instagram-new.png" height="34" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ssingh28_be24@thapar.edu">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="34" alt="Gmail"/>
+    <img src="https://img.icons8.com/color/54/gmail-new.png" height="34" alt="Gmail"/>
   </a>
 </p>
 
@@ -52,231 +52,231 @@
   <table style="border-collapse:collapse; margin:0 auto;">
     <tr>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="54" height="54" alt="HTML5" />
         <br /><strong>HTML5</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="54" height="54" alt="CSS3" />
         <br /><strong>CSS3</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="54" height="54" alt="JavaScript" />
         <br /><strong>JavaScript</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="54" height="54" alt="TypeScript" />
         <br /><strong>TypeScript</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="54" height="54" alt="Bootstrap" />
         <br /><strong>Bootstrap</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="54" height="54" alt="Tailwind CSS" />
         <br /><strong>Tailwind</br>CSS</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="54" height="54" alt="React" />
         <br /><strong>React</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="54" height="54" alt="Redux" />
         <br /><strong>Redux</strong>
       </td>
     </tr>
     <tr>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="48" height="48" alt="Shadcn" />
+        <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="54" height="54" alt="Shadcn" />
         <br /><strong>Shadcn</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48" height="48" alt="Zustand" />
+        <img src="https://user-images.githubusercontent.com/958546/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="54" height="54" alt="Zustand" />
         <br /><strong>Zustand</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://img.icons8.com/?format=png&id=r9QJ0VFFrn7T&size=512" width="48" height="48" alt="Chakra UI" />
+        <img src="https://img.icons8.com/?format=png&id=r9QJ0VFFrn7T&size=512" width="54" height="54" alt="Chakra UI" />
         <br /><strong>Chakra UI</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="48" height="48" alt="WebStorm" />
+        <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="54" height="54" alt="WebStorm" />
         <br /><strong>WebStorm</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="54" height="54" alt="Node.js" />
         <br /><strong>Node.js</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="54" height="54" alt="Express" />
         <br /><strong>Express</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="54" height="54" alt="MongoDB" />
         <br /><strong>MongoDB</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="54" height="54" alt="PostgreSQL" />
         <br /><strong>PostgreSQL</strong>
       </td>
     </tr>
     <tr>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="54" height="54" alt="MySQL" />
         <br /><strong>MySQL</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="54" height="54" alt="SQLite" />
         <br /><strong>SQLite</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="54" height="54" alt="Python" />
         <br /><strong>Python</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="54" height="54" alt="C" />
         <br /><strong>C</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="54" height="54" alt="C++" />
         <br /><strong>C++</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodemon.svg" width="48" height="48" alt="Nodemon" />
+        <img src="https://cdn.worldvectorlogo.com/logos/nodemon.svg" width="54" height="54" alt="Nodemon" />
         <br /><strong>Nodemon</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="48" height="48" alt="Socket.io" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="54" height="54" alt="Socket.io" />
         <br /><strong>Socket.io</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://bun.sh/logo.svg" width="48" height="48" alt="Bun" />
+        <img src="https://bun.sh/logo.svg" width="54" height="54" alt="Bun" />
         <br /><strong>Bun</strong>
       </td>
     </tr>
     <tr>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="54" height="54" alt="React Native" />
         <br /><strong>React</br>Native</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="54" height="54" alt="Vue.js" />
         <br /><strong>Vue.js</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="54" height="54" alt="NumPy" />
         <br /><strong>NumPy</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="54" height="54" alt="Pandas" />
         <br /><strong>Pandas</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="54" height="54" alt="Golang" />
         <br /><strong>Golang</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="54" height="54" alt="VSCode" />
         <br /><strong>VSCode</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="54" height="54" alt="Postman" />
         <br /><strong>Postman</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="48" height="48" alt="Jupyter Notebook" />
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="54" height="54" alt="Jupyter Notebook" />
         <br /><strong>Jupyter</br>Notebook</strong>
       </td>
     </tr>
     <tr>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="54" height="54" alt="PyCharm" />
         <br /><strong>PyCharm</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="48" height="48" alt="IntelliJ" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="54" height="54" alt="IntelliJ" />
         <br /><strong>IntelliJ</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" width="48" height="48" alt="CLion" />
+        <img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" width="54" height="54" alt="CLion" />
         <br /><strong>CLion</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="48" height="48" alt="npm" />
+        <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="54" height="54" alt="npm" />
         <br /><strong>npm</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://authjs.dev/img/logo-sm.png" width="48" height="48" alt="Auth.js" />
+        <img src="https://authjs.dev/img/logo-sm.png" width="54" height="54" alt="Auth.js" />
         <br /><strong>Auth.js</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="54" height="54" alt="Firebase" />
         <br /><strong>Firebase</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" width="48" height="48" alt="Zod" />
+        <img src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" width="54" height="54" alt="Zod" />
         <br /><strong>Zod</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="54" height="54" alt="Next.js" />
         <br /><strong>Next.js</strong>
       </td>
     </tr>
     <tr>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="48" height="48" alt="Supabase" />
+        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="54" height="54" alt="Supabase" />
         <br /><strong>Supabase</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="48" height="48" alt="Prisma" />
+        <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="54" height="54" alt="Prisma" />
         <br /><strong>Prisma</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://preactjs.com/branding/symbol.png" width="48" height="48" alt="Preact" />
+        <img src="https://preactjs.com/branding/symbol.png" width="54" height="54" alt="Preact" />
         <br /><strong>Preact</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="48" height="48" alt="JSON" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="54" height="54" alt="JSON" />
         <br /><strong>JSON</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="48" height="48" alt="Svelte" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="54" height="54" alt="Svelte" />
         <br /><strong>Svelte</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="54" height="54" alt="Django" />
         <br /><strong>Django</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="54" height="54" alt="Flask" />
         <br /><strong>Flask</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="54" height="54" alt="Figma" />
         <br /><strong>Figma</strong>
       </td>
     </tr>
     <tr>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/daisyui-icon.png" width="48" height="48" alt="DaisyUI" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/daisyui-icon.png" width="54" height="54" alt="DaisyUI" />
         <br /><strong>DaisyUI</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://images.g2crowd.com/uploads/product/image/c58d5fd4ba449e621bdcd01ac1f00976/clerk-dev.png" width="48" height="48" alt="Clerk" />
+        <img src="https://images.g2crowd.com/uploads/product/image/c58d5fd4ba449e621bdcd01ac1f00976/clerk-dev.png" width="54" height="54" alt="Clerk" />
         <br /><strong>Clerk</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="48" height="48" alt="TanStack Query" />
+        <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="54" height="54" alt="TanStack Query" />
         <br /><strong>TanStack</br>Query</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" alt="Matplotlib" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="54" height="54" alt="Matplotlib" />
         <br /><strong>Matplotlib</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="54" height="54" alt="Seaborn" />
         <br /><strong>Seaborn</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="54" height="54" alt="Scikit-learn" />
         <br /><strong>Scikit-learn</strong>
       </td>
     </tr>
@@ -312,7 +312,7 @@
 ### 🎬 Just for Fun
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="270" alt="Coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="540" height="270" alt="Coding gif" />
 </p>
 
 ---
