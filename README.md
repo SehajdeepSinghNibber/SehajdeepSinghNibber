@@ -90,7 +90,7 @@
         <br /><strong>Shadcn</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" width="60" height="60" alt="Zustand" />
+        <img src="https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg" width="60" height="60" alt="Zustand" />
         <br /><strong>Zustand</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
