@@ -279,6 +279,11 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60" alt="Scikit-learn" />
         <br /><strong>Scikit-learn</strong>
       </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" 
+             width="60" height="60" alt="Java" />
+        <br /><strong>Java</strong>
+      </td>
     </tr>
   </table>
 </div>
