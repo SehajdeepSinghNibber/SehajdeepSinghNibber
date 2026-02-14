@@ -284,6 +284,11 @@
              width="60" height="60" alt="Java" />
         <br /><strong>Java</strong>
       </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://streamlit.io/images/brand/streamlit-mark-color.png"
+             width="60" height="60" alt="Streamlit" />
+        <br /><strong>Streamlit</strong>
+      </td>
     </tr>
   </table>
 </div>
