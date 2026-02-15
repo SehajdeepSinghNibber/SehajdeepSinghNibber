@@ -104,7 +104,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
         <br /><strong>MySQL</strong>
       </td>
-      </td>
+       <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" alt="Postman" />
+        <br /><strong>Postman</strong>
+       </td>
     </tr>
     <tr>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
@@ -139,6 +142,10 @@
     </tr>
     <tr>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" />
+        <br /><strong>Next.js</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React Native" />
         <br /><strong>React</br>Native</strong>
       </td>
@@ -153,10 +160,6 @@
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode" />
         <br /><strong>VSCode</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" alt="Postman" />
-        <br /><strong>Postman</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="60" height="60" alt="Jupyter Notebook" />
@@ -181,10 +184,6 @@
         <br /><strong>CLion</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="60" height="60" alt="npm" />
-        <br /><strong>npm</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://authjs.dev/img/logo-sm.png" width="60" height="60" alt="Auth.js" />
         <br /><strong>Auth.js</strong>
       </td>
@@ -193,15 +192,11 @@
         <br /><strong>Firebase</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" />
-        <br /><strong>Next.js</strong>
+        <img src="https://images.g2crowd.com/uploads/product/image/c58d5fd4ba449e621bdcd01ac1f00976/clerk-dev.png" width="60" height="60" alt="Clerk" />
+        <br /><strong>Clerk</strong>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="60" height="60" alt="JSON" />
-        <br /><strong>JSON</strong>
-      </td>
        <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="60" height="60" alt="Shadcn" />
         <br /><strong>Shadcn</strong>
@@ -213,10 +208,6 @@
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/daisyui-icon.png" width="60" height="60" alt="DaisyUI" />
         <br /><strong>DaisyUI</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://images.g2crowd.com/uploads/product/image/c58d5fd4ba449e621bdcd01ac1f00976/clerk-dev.png" width="60" height="60" alt="Clerk" />
-        <br /><strong>Clerk</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60" height="60" alt="Matplotlib" />
