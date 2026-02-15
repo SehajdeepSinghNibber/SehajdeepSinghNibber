@@ -90,10 +90,6 @@
         <br /><strong>Shadcn</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg" width="60" height="60" alt="Zustand" />
-        <br /><strong>Zustand</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://img.icons8.com/?format=png&id=r9QJ0VFFrn7T&size=512" width="60" height="60" alt="Chakra UI" />
         <br /><strong>Chakra UI</strong>
       </td>
@@ -122,10 +118,6 @@
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
         <br /><strong>MySQL</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="SQLite" />
-        <br /><strong>SQLite</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python" />
@@ -158,20 +150,12 @@
         <br /><strong>React</br>Native</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="60" height="60" alt="Vue.js" />
-        <br /><strong>Vue.js</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy" />
         <br /><strong>NumPy</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas" />
         <br /><strong>Pandas</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="60" height="60" alt="Golang" />
-        <br /><strong>Golang</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode" />
@@ -212,46 +196,14 @@
         <br /><strong>Firebase</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" width="60" height="60" alt="Zod" />
-        <br /><strong>Zod</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" />
         <br /><strong>Next.js</strong>
       </td>
     </tr>
     <tr>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="60" height="60" alt="Supabase" />
-        <br /><strong>Supabase</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="60" height="60" alt="Prisma" />
-        <br /><strong>Prisma</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://preactjs.com/branding/symbol.png" width="60" height="60" alt="Preact" />
-        <br /><strong>Preact</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="60" height="60" alt="JSON" />
         <br /><strong>JSON</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="60" height="60" alt="Svelte" />
-        <br /><strong>Svelte</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60" alt="Django" />
-        <br /><strong>Django</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" alt="Flask" />
-        <br /><strong>Flask</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" alt="Figma" />
-        <br /><strong>Figma</strong>
       </td>
     </tr>
     <tr>
@@ -262,10 +214,6 @@
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://images.g2crowd.com/uploads/product/image/c58d5fd4ba449e621bdcd01ac1f00976/clerk-dev.png" width="60" height="60" alt="Clerk" />
         <br /><strong>Clerk</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="60" height="60" alt="TanStack Query" />
-        <br /><strong>TanStack</br>Query</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60" height="60" alt="Matplotlib" />
