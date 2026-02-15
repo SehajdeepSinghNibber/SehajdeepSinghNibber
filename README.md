@@ -79,23 +79,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React" />
         <br /><strong>React</strong>
       </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" height="60" alt="Redux" />
-        <br /><strong>Redux</strong>
-      </td>
     </tr>
     <tr>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="60" height="60" alt="Shadcn" />
-        <br /><strong>Shadcn</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://img.icons8.com/?format=png&id=r9QJ0VFFrn7T&size=512" width="60" height="60" alt="Chakra UI" />
-        <br /><strong>Chakra UI</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="60" height="60" alt="WebStorm" />
-        <br /><strong>WebStorm</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" height="60" alt="Redux" />
+        <br /><strong>Redux</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
@@ -112,16 +100,21 @@
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" />
         <br /><strong>PostgreSQL</strong>
+        <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
+        <br /><strong>MySQL</strong>
+      </td>
       </td>
     </tr>
     <tr>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
-        <br /><strong>MySQL</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python" />
         <br /><strong>Python</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" 
+             width="60" height="60" alt="Java" />
+        <br /><strong>Java</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60" alt="C" />
@@ -171,6 +164,10 @@
       </td>
     </tr>
     <tr>
+       <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="60" height="60" alt="WebStorm" />
+        <br /><strong>WebStorm</strong>
+      </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="60" height="60" alt="PyCharm" />
         <br /><strong>PyCharm</strong>
@@ -205,8 +202,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="60" height="60" alt="JSON" />
         <br /><strong>JSON</strong>
       </td>
-    </tr>
-    <tr>
+       <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="60" height="60" alt="Shadcn" />
+        <br /><strong>Shadcn</strong>
+      </td>
+      <td style="text-align:center; width:110px; height:90px; padding:6px;">
+        <img src="https://img.icons8.com/?format=png&id=r9QJ0VFFrn7T&size=512" width="60" height="60" alt="Chakra UI" />
+        <br /><strong>Chakra UI</strong>
+      </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/daisyui-icon.png" width="60" height="60" alt="DaisyUI" />
         <br /><strong>DaisyUI</strong>
@@ -226,11 +229,6 @@
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60" alt="Scikit-learn" />
         <br /><strong>Scikit-learn</strong>
-      </td>
-      <td style="text-align:center; width:110px; height:90px; padding:6px;">
-        <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" 
-             width="60" height="60" alt="Java" />
-        <br /><strong>Java</strong>
       </td>
       <td style="text-align:center; width:110px; height:90px; padding:6px;">
         <img src="https://streamlit.io/images/brand/streamlit-mark-color.png"
