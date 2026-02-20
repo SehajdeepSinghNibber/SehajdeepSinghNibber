@@ -107,7 +107,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36"/>](https://github.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36"/>](https://www.docker.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36"/>](https://kubernetes.io/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36"/>](https://github.com/features/actions)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="36"/>](https://www.npmjs.com/)
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36"/>](https://www.postman.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36"/>](https://aws.amazon.com/)
