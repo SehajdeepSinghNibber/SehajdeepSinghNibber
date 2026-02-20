@@ -110,7 +110,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="36"/>](https://www.npmjs.com/)
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36"/>](https://www.postman.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36"/>](https://aws.amazon.com/)
-[<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg](https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png)" width="36"/>](https://www.npmjs.com/package/nodemon)
+[<img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" width="36"/>](https://www.npmjs.com/package/nodemon)
 
 ---
 
