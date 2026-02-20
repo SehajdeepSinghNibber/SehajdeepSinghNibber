@@ -131,8 +131,8 @@
         <br /><strong>C++</strong>
       </td>
       <td style="text-align:center; width:110px; height:110px; padding:8px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodemon.svg" width="60" height="60" alt="Nodemon" />
-        <br /><strong>Nodemon</strong>
+        <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" width="60" height="60" alt="Go" />
+        <br /><strong>Go (Golang)</strong>
       </td>
       <td style="text-align:center; width:110px; height:110px; padding:8px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="60" height="60" alt="Socket.io" />
