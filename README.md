@@ -138,7 +138,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sehajdeepsinghnibber&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
 </p>
 
@@ -148,6 +148,29 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehajdeepsinghnibber&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&exclude_repo=sehajdeepsinghnibber" alt="Top Languages" />
+</p> -->
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sehajdeepsinghnibber&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
+    alt="GitHub Stats" 
+  />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=sehajdeepsinghnibber&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehajdeepsinghnibber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    alt="Top Languages" 
+  />
 </p>
 
 ---
