@@ -169,8 +169,7 @@
 <!-- Top Languages -->
 <p align="center">
   <img 
-    <!-- src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehajdeepsinghnibber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"  -->
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehajdeepsinghnibber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehajdeepsinghnibber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages" 
   />
 </p>
