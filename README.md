@@ -65,6 +65,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36"/>](https://react.dev/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36"/>](https://nextjs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36"/>](https://redux.js.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="36"/>](https://threejs.org/)
 
 ---
 
