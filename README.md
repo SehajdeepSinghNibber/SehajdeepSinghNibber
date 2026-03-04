@@ -75,7 +75,7 @@
 [<img src="https://bun.sh/logo.svg" width="36"/>](https://bun.sh/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="36"/>](https://socket.io/)
 [<img src="https://authjs.dev/img/logo-sm.png" width="36"/>](https://authjs.dev/)
-[<img src="https://raw.githubusercontent.com/fastify/graphics/master/fastify-logo.svg" width="36"/>](https://fastify.dev/)
+[<img src="https://raw.githubusercontent.com/fastify/graphics/master/fastify-portrait.svg" width="36"/>](https://fastify.dev/)
 
 ---
 
