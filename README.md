@@ -134,7 +134,7 @@
 [<img src="https://img.icons8.com/?format=png&id=r9QJ0VFFrn7T&size=512" width="36"/>](https://chakra-ui.com/)
 [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/daisyui-icon.png" width="36"/>](https://daisyui.com/)
 [<img src="https://mui.com/static/logo.png" width="36"/>](https://mui.com/)
-[<img src="<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b8ca7eeb-5350-42c5-a19b-d1ec85f1f711" />
+[<img src="https://github.com/user-attachments/assets/b8ca7eeb-5350-42c5-a19b-d1ec85f1f711" />
 " width="36"/>](https://www.radix-ui.com//)
 
 ---
