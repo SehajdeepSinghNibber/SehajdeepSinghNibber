@@ -92,6 +92,7 @@
 [<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36"/>](https://www.sqlite.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36"/>](https://redis.io/)
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36"/>](https://firebase.google.com/)
+[<img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkSymbol.svg" width="36"/>](https://www.prisma.io/)
 
 ---
 
