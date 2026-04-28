@@ -122,7 +122,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36"/>](https://code.visualstudio.com/)
 [<img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="36"/>](https://www.jetbrains.com/webstorm/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="36"/>](https://www.jetbrains.com/pycharm/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="36"/>](https://www.jetbrains.com/idea/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="36"/>](https://www.jetbrains.com/idea/)
 [<img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" width="36"/>](https://www.jetbrains.com/clion/)
 [<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="36"/>](https://jupyter.org/)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" width="36"/>](https://cursor.sh/)
