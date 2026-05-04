@@ -71,7 +71,7 @@
 ---
 
 ### 🖥️ Backend & APIs
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36"/>](https://nodejs.org/)
+[<img src="https://dl.svgcdn.com/png/logos/nodejs-icon-800.png" width="36"/>](https://nodejs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36"/>](https://expressjs.com/)
 [<img src="https://bun.sh/logo.svg" width="36"/>](https://bun.sh/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="36"/>](https://socket.io/)
