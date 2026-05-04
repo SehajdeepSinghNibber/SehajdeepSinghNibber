@@ -161,6 +161,10 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sehajdeepsinghnibber&theme=elegant&area=true" height="300" alt="activity graph" />
+</p>
+
 <!-- GitHub Streak -->
 <p align="center">
   <img 
