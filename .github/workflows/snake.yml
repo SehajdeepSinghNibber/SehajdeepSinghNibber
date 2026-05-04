@@ -9,14 +9,14 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate snake
+      - name: Generate snake svg
         uses: Platane/snk@v3
         with:
           github_user_name: sehajdeepsinghnibber
