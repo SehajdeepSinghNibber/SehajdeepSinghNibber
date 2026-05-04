@@ -173,6 +173,10 @@
   />
 </p>
 
+<p align="center">
+  ![Snake animation](https://raw.githubusercontent.com/sehajdeepsinghnibber/sehajdeepsinghnibber/refs/heads/output/snake.svg)
+</p>
+
 <!-- Top Languages -->
 <p align="center">
   <img 
