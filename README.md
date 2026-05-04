@@ -173,9 +173,9 @@
   />
 </p>
 
-<p align="center">
-  ![Snake animation](https://raw.githubusercontent.com/sehajdeepsinghnibber/sehajdeepsinghnibber/refs/heads/output/snake.svg)
-</p>
+## My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/sehajdeepsinghnibber/sehajdeepsinghnibber/output/snake.svg)
 
 <!-- Top Languages -->
 <p align="center">
