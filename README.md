@@ -66,12 +66,12 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36"/>](https://nextjs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36"/>](https://redux.js.org/)
 [<img src="https://camo.githubusercontent.com/4953fe769ac1d0267c319acb3e34f769cd12698ba1d4fa332df24b5b10b3ff01/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74687265656a73" width="36"/>](https://threejs.org/)
-[<img src="https://logo.svgcdn.com/devicon/zustand-original.svg" width="36"/>](https://zustand-demo.pmnd.rs/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="36"/>](https://zustand-demo.pmnd.rs/)
 
 ---
 
 ### 🖥️ Backend & APIs
-[<img src="https://dl.svgcdn.com/png/logos/nodejs-icon-800.png" width="36"/>](https://nodejs.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36"/>](https://nodejs.org/)
 [<img src="https://camo.githubusercontent.com/6c581f9592fa01dbdcf471f2691504e88c96d4840ce2710e9080513cdbed7c21/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373" width="36"/>](https://expressjs.com/)
 [<img src="https://bun.sh/logo.svg" width="36"/>](https://bun.sh/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="36"/>](https://socket.io/)
