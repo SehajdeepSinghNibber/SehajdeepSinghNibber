@@ -73,9 +73,10 @@
 ### 🖥️ Backend & APIs
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36"/>](https://nodejs.org/)
 [<img src="https://camo.githubusercontent.com/6c581f9592fa01dbdcf471f2691504e88c96d4840ce2710e9080513cdbed7c21/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373" width="36"/>](https://expressjs.com/)
+[<img src="https://cdn.simpleicons.org/fastify/E10098" width="36"/>](https://fastify.dev/)
 [<img src="https://bun.sh/logo.svg" width="36"/>](https://bun.sh/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="36"/>](https://socket.io/)
-[<img src="https://cdn.simpleicons.org/fastify/E10098" width="36"/>](https://fastify.dev/)
+[<img src="https://cdn.simpleicons.org/nestjs/E0234E" width="36"/>](https://nestjs.com/)
 [<img src="https://authjs.dev/img/logo-sm.png" width="36"/>](https://authjs.dev/)
 [<img src="https://cdn.simpleicons.org/graphql/E10098" width="36" />](https://graphql.org/)
 
