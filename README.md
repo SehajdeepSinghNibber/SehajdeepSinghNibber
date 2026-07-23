@@ -98,7 +98,9 @@
 
 ---
 
-### 📚 Libraries & ML
+### 📚 Libraries & Utilities
+[<img src="https://cdn.simpleicons.org/zod" width="36"/>](https://zod.dev/)
+[<img src="https://cdn.simpleicons.org/axios" width="36"/>](https://axios-http.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36"/>](https://numpy.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36"/>](https://pandas.pydata.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36"/>](https://matplotlib.org/)
