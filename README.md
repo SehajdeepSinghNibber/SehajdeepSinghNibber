@@ -80,6 +80,8 @@
 [<img src="https://authjs.dev/img/logo-sm.png" width="36"/>](https://authjs.dev/)
 [<img src="https://cdn.simpleicons.org/graphql/E10098" width="36" />](https://graphql.org/)
 [<img src="https://fastapi.tiangolo.com/img/favicon.png" width="36"/>](https://fastapi.tiangolo.com/)
+[<img src="https://raw.githubusercontent.com/pallets/flask/main/docs/_static/flask-logo.svg" width="36"/>](https://flask.palletsprojects.com/)
+[<img src="https://docs.gofiber.io/img/logo.svg" width="36"/>](https://gofiber.io/)
 
 ---
 
