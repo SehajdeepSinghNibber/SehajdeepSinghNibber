@@ -162,7 +162,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-jade-three-96.vercel.app/api/top-langs?username=SehajdeepSinghNibber&show_icons=true&locale=en&theme=tokyonight&show_icons=true&hide_border=true" 
+    src="https://github-readme-stats-jade-three-96.vercel.app/api/top-langs?username=SehajdeepSinghNibber&show_icons=true&locale=en&theme=tokyonight&hide_border=true&langs_count=9" 
     alt="GitHub Stats" 
   />
 </p>
