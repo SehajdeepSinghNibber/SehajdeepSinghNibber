@@ -98,7 +98,7 @@
 [<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36"/>](https://www.sqlite.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36"/>](https://redis.io/)
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36"/>](https://firebase.google.com/)
-[<img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkSymbol.svg" width="36"/>](https://www.prisma.io/)
+[<img src="https://imgs.search.brave.com/I-jd6urhzxDeJweFcLQQS8i4DAGcL2uijL91tjcjF3k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWNkZmVlYmUy/NmE0MzkxMmVhNDBh/OGQzN2UwNWRmNWQw/YWQ5NmQyNDU0ZDI4/OTRiOWEwZjY0NjBh/YWUyNGIzMi93d3cu/cHJpc21hLmlvLw" width="36"/>](https://www.prisma.io/)
 [<img src="https://neon.com/brand/neon-logo-dark-color.svg" width="106"/>](https://neon.com/)
 
 ---
