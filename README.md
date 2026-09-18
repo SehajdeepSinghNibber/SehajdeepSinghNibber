@@ -161,11 +161,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehajdeepsinghnibber&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&exclude_repo=sehajdeepsinghnibber" alt="Top Languages" />
 </p> -->
 
+<!-- src="https://github-readme-stats-jade-three-96.vercel.app/api/top-langs?username=SehajdeepSinghNibber&show_icons=true&locale=en&theme=tokyonight&hide_border=true&langs_count=9"  -->
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats-jade-three-96.vercel.app/api/top-langs?username=SehajdeepSinghNibber&show_icons=true&locale=en&theme=tokyonight&hide_border=true&langs_count=9" 
-    alt="GitHub Stats" 
-  />
+ <img 
+  src="https://github-readme-stats-ooxv-7v24r7igm.vercel.app/api/top-langs/?username=sehajdeepsinghnibber&layout=donut&theme=tokyonight&langs_count=20"
+  alt="GitHub Stats"
+/>
 </p>
 
 <p align="center">
