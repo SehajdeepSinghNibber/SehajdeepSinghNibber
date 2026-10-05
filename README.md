@@ -147,50 +147,54 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sehajdeepsinghnibber&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sehajdeepsinghnibber&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehajdeepsinghnibber&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&exclude_repo=sehajdeepsinghnibber" alt="Top Languages" />
-</p> -->
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-jade-three-96.vercel.app/api/top-langs?username=SehajdeepSinghNibber&show_icons=true&locale=en&theme=tokyonight&hide_border=true&langs_count=9" 
-    alt="GitHub Stats" 
+  <img
+    src="https://github-readme-stats-jade-three-96.vercel.app/api?username=SehajdeepSinghNibber&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-jade-three-96.vercel.app/api/top-langs?username=SehajdeepSinghNibber&layout=donut&theme=tokyonight&hide_border=true&langs_count=9&count_private=true"
+    height="180"
+    alt="Most Used Languages"
   />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sehajdeepsinghnibber&theme=elegant&area=true" height="300" alt="activity graph" />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=sehajdeepsinghnibber&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
+  <img
+    src="https://streak-stats.demolab.com?user=sehajdeepsinghnibber&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
-## My Contributions
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sehajdeepsinghnibber&theme=tokyo-night&area=true&hide_border=true"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+## 🐍 My Contributions
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SehajdeepSinghNibber/SehajdeepSinghNibber/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SehajdeepSinghNibber/SehajdeepSinghNibber/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SehajdeepSinghNibber/SehajdeepSinghNibber/output/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SehajdeepSinghNibber/SehajdeepSinghNibber/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SehajdeepSinghNibber/SehajdeepSinghNibber/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/SehajdeepSinghNibber/SehajdeepSinghNibber/output/github-contribution-grid-snake.svg"
+    />
   </picture>
 </p>
-
----
 
 ### 💡 Quote of the Moment
 
