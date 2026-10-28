@@ -149,33 +149,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-jade-three-96.vercel.app/api?username=SehajdeepSinghNibber&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats-jade-three-96.vercel.app/api/top-langs?username=SehajdeepSinghNibber&layout=donut&theme=tokyonight&hide_border=true&langs_count=9&count_private=true"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sehajdeepsinghnibber&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SehajdeepSinghNibber&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehajdeepSinghNibber&layout=compact&hide_border=true&langs_count=8" alt="Most-used languages">
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sehajdeepsinghnibber&theme=tokyo-night&area=true&hide_border=true"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
-</p>
+<img src="https://streak-stats.demolab.com?user=SehajdeepSinghNibber&hide_border=true" alt="GitHub contribution streak">
+
+</div>
 
 ## 🐍 My Contributions
 
