@@ -121,7 +121,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36"/>](https://kubernetes.io/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="36"/>](https://www.npmjs.com/)
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36"/>](https://www.postman.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36"/>](https://aws.amazon.com/)
+[<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAflBMVEUjLz4dKjohLT0NHzFQV2FKUlwAFywnM0IaKDgzPUpWXGUVJDbq6+3i4+X29/jLzc99gogAABubnqP///9yd393fIPY2twAAAAAAB8AACK1t7ujpqsADicAFitiaHGGi5GUmJ1pb3cAFCqJjpQ8RlIuOUZDS1errrEGHC/DxslAWrmhAAAA1UlEQVR4Ad2OhWGFMBBAI0iIlhzuTth/wHqLjPBf5FzQ64Hx10++H8H3GPX8IMQEE8JCGnFC0ImQSps3GVuIE5lCpii6EOQFhFAaHVV1ZvPm1rWSGbSqk3UvvQ70cKlkI8QFUGtMZ3QzxRz4uRPmMBvoFrAlVEVlB4jIpW1S8W6l/SLSjfF93xw6IZPDDCFBvi52Sd2zs+1haSB+OxHhzz2Is3KycKRomtp2mthYyTFr0YlbKwCtTJZp0LWbO4YuEBd09WHMYXlDCWPoAaMuCBzF6BX5AC2JD1u/hbEIAAAAAElFTkSuQmCC" width="36"/>](https://aws.amazon.com/)
 [<img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" width="36"/>](https://www.npmjs.com/package/nodemon)
 
 ---
