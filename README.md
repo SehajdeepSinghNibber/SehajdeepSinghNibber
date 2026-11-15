@@ -13,7 +13,7 @@
 - 🔭 I'm currently working on **Full-Stack Projects** and exploring **AI & Machine Learning**
 - 🌱 Learning: **MongoDB, PostgreSQL, Express.js, React, Node.js, Supabase, Firebase, DevOps, Python**, and **Machine Learning**
 - 💬 Ask me about **Web Development, Python, SQL, Pandas**, and **learning resources**
-- 📫 Email: **sehajdeep.dev@gmail.com**
+- 📫 Email: **sehajdeep.dev@yahoo.com**
 
 ---
 
@@ -39,8 +39,8 @@
     <img src="https://img.icons8.com/color/60/instagram-new.png" height="34" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ssingh28_be24@thapar.edu">
-    <img src="https://img.icons8.com/color/60/gmail-new.png" height="34" alt="Gmail"/>
+  <a href="sehajdeep.dev@yahoo.com">
+    <img src="https://img.icons8.com/color/60/gmail-new.png" height="34" alt="Email"/>
   </a>
 </p>
 
